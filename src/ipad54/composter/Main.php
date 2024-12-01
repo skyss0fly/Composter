@@ -8,7 +8,7 @@ namespace ipad54\composter;
 use ipad54\composter\block\Composter;
 use pocketmine\block\VanillaBlocks;
 use pocketmine\block\BlockIdentifier as BID;
-use pocketmine\block\BlockLegacyIds as IDS;
+use pocketmine\data\bedrock\block\upgrade\LegacyBlockIdToStringIdMap as IDS;
 use pocketmine\item\ItemIds;
 use pocketmine\plugin\PluginBase;
 
