@@ -9,7 +9,7 @@ use ipad54\composter\block\Composter;
 use pocketmine\block\VanillaBlocks;
 use pocketmine\block\BlockIdentifier as BID;
 use pocketmine\data\bedrock\block\upgrade\LegacyBlockIdToStringIdMap as IDS;
-use pocketmine\item\ItemIds;
+use pocketmine\item\ItemTypeIds;
 use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase
